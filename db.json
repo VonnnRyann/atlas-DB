@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "age": "129",
+      "fbw": "10",
+      "profession": "Musician",
+      "favoriteBands": [
+        "Radiohead",
+        "Motorhead",
+        "Machinehead",
+        "The talking heads"
+      ],
+      "email": "steve@metallica.com"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "email": "vonn@gmail.com"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "email": "vonn@gmail.com"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "email": "vonn@gmail.com",
+      "id": "1652094748795"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "email": "vonn@gmail.com",
+      "id": "1652094755377"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "stevenson",
+      "email": "vonn@gmail.com",
+      "id": "1652094764930"
+    }
+  ]
+}
